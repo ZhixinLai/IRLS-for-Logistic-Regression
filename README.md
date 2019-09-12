@@ -1,5 +1,8 @@
 # IRLS-for-Logistic-Regression
 Apply a IRLS to solve a binary classification problem
+IRLS algorithm:  
+![image](https://github.com/ZhixinLai/IRLS-for-Logistic-Regression/blob/master/images/9.png)
+![image](https://github.com/ZhixinLai/IRLS-for-Logistic-Regression/blob/master/images/10.png)  
 The results when set different regularization coefficient and convergence accuracy:  
 ![image](https://github.com/ZhixinLai/IRLS-for-Logistic-Regression/blob/master/images/1.png)
 ![image](https://github.com/ZhixinLai/IRLS-for-Logistic-Regression/blob/master/images/2.png)
